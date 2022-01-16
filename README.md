@@ -8,5 +8,5 @@
 - 🤔 I’m looking for help with Android Application development using Java.
 - 📫 How to reach me: linkedin.com/in/zahrashahid/
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZahraShahid&theme=gruvbox)](https://github.com/ZahraShahid/github-readme-stats) [![Zahra's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZahraShahid&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/ZahraShahid/github-readme-stats)
+[![Zahra's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZahraShahid&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/ZahraShahid/github-readme-stats)
 
