@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Data Analysis to proceed with Machine Learning and AI.
 - 👯 I’m improving my problem solving skills on HackerRank and LeetCode.
 
-[![Zahra's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZahraShahid&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/ZahraShahid/github-readme-stats)
+<!-- [![Zahra's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZahraShahid&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/ZahraShahid/github-readme-stats) -->
 
 ## 🤝🏻 &nbsp;Connect with Me
 
