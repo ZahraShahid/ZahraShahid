@@ -1,6 +1,6 @@
 ### Hey there, I'm Zahra Shahid 👋
 
-## I am a Coding Maniac, Full Stack Web Developer (MERN), and ML Enthusiast.
+## I am a Coding Maniac, Full Stack Developer, and ML Enthusiast.
 
 - 🔭 I’m currently working on Full Stack Web Development using MERN and ROR.
 - 🌱 I’m currently learning Data Analysis to proceed with Machine Learning and AI.
