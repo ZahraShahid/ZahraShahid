@@ -1,10 +1,8 @@
 ### Hey there, I'm Zahra Shahid 👋
 
-## I am a Coding Maniac, Full Stack Developer, and an Open-source Contributor.
+## Full Stack Engineer
 
-- 🔭 I’m currently working on Backend Development using Node and Express.
-- 🌱 I’m currently learning cloud-native application development, AWS, Microservices, and Serverless.
-- 👯 I’m improving my problem solving skills on HackerRank and LeetCode.
+- 🔭 I am a Coding Maniac and results-driven Full Stack Engineer with over 3 years of experience building dynamic web applications and integration solutions. My passion for coding extends to open-source contributions, and I’m currently honing my skills in Cloud-native technologies and GenAI.
 
 <!-- [![Zahra's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZahraShahid&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/ZahraShahid/github-readme-stats) -->
 
