@@ -2,7 +2,7 @@
 
 ## Full Stack Engineer
 
-- 🔭 I am a Coding Maniac and results-driven Full Stack Engineer with over 3 years of experience building dynamic web applications and integration solutions. My passion for coding extends to open-source contributions, and I’m currently honing my skills in Cloud-native technologies and GenAI.
+- 🔭 I am a Coding Maniac and results-driven Full Stack Engineer with over 4 years of experience building dynamic web applications and integration solutions. My passion for coding extends to open-source contributions, and I’m currently honing my skills in Cloud-native technologies and GenAI.
 
 <!-- [![Zahra's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZahraShahid&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/ZahraShahid/github-readme-stats) -->
 
