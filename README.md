@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Zahra Shahid 👋</h1>
-<h3 align="center">💻 Lead Software Engineer | AI-Native Full-Stack Architect | Tech Innovator</h3>
+<h3 align="center">💻 Lead Software Engineer | AI-Native Full-Stack Architect | Global Collaborator</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Building+Scalable+Cloud+Web+Apps;Orchestrating+AI-Native+Agent+Workflows;Designing+Resilient+Micro+Frontends" alt="Typing SVG" />
@@ -11,12 +11,11 @@
 
 I’m a **results-driven Lead AI-Native Full-Stack Engineer** with 5+ years of experience crafting dynamic, scalable web applications, micro-frontends, and intelligent workflow solutions. My engineering philosophy blends creative frontend design with robust, cloud-native backend architectures.
 
-Currently based in **Qatar 🇶🇦**, I collaborate globally to transform complex ideas into production-ready digital realities.  
-
-- **Currently working on:** Next-generation AI-powered integrations and micro frontends.  
-- **Learning:** Multi-agent orchestration, advanced AWS Lambda, and serverless architectures.  
-- **Ask me about:** TypeScript/React, Node.js, Java Spring Boot, and building AI agent workflows.  
-- **Fun fact:** I’m a coffee-fueled coder who loves translating "vibe coding" energy into highly structured, enterprise-grade systems. ☕💻  
+* 🌍 **Location:** Based in Qatar 🇶🇦 (Open to Remote / Hybrid / Relocation roles globally)
+* ⚡ **Core Focus:** Scaling AI-powered integrations & decoupling frontends with micro-frontend architecture.
+* 🌱 **Learning:** Multi-agent orchestration, advanced AWS Lambda, and serverless architectures.
+* 💬 **Ask me about:** TypeScript/React, Node.js, Java Spring Boot, and building AI agent workflows.
+* ☕ **Fun fact:** I’m a coffee-fueled coder who loves translating "vibe coding" energy into highly structured, enterprise-grade systems.  
 
 ---
 
@@ -51,6 +50,19 @@ Currently based in **Qatar 🇶🇦**, I collaborate globally to transform compl
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+---
+
+### 📂 Featured Projects  
+
+*Showcasing production-ready architectures and modern developer workflows.*
+
+| Project | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **AI Agentic Recruiter** | An intelligent multi-agent orchestration pipeline built to automate developer outreach and talent sourcing. | Python, CrewAI, OpenAI | [Code base 🔗](#) |
+| **Micro-Frontend Architecture** | A scalable, decoupled frontend layout designed for high-concurrency enterprise apps. | React, Next.js, Webpack | [Code base 🔗](#) |
+
+*(💡 Tip: Replace the link placeholders above with the actual URLs to your favorite GitHub repositories!)*
 
 ---
 
