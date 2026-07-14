@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm Zahra Shahid</h1>
+<h1 align="center">Hey there, I'm Zahra Shahid</h1>
 <h3 align="center">💻 Lead Software Engineer | Open Source Contributor | AI Native </h3>
 
 <p align="center">
@@ -7,17 +7,17 @@
 
 ---
 
-### 🚀 About Me  
+### 🚀About Me  
 
 I’m a **results-driven Senior AI-Native Full-Stack Engineer** with 5+ years of experience creating **dynamic, scalable web applications** and **API integration solutions**.  
 My work blends creativity, logic, and impact — from **frontend finesse** to **cloud-native backend systems**.  
 
 Currently based in **Qatar 🇶🇦**, I collaborate globally to transform ideas into digital realities.  
 
-- 🔭 **Currently working on:** AI-powered integrations and micro frontends  
-- 🌱 **Learning:** Generative AI, AWS Lambda & Serverless  
-- 💬 **Ask me about:** TypeScript, React, Node.js, Java Spring Boot  
-- ⚡ **Fun fact:** I’m a coffee-fueled coder & a problem-solving enthusiast  
+- **Currently working on:** AI-powered integrations and micro frontends  
+- **Learning:** Generative AI, AWS Lambda & Serverless  
+- **Ask me about:** TypeScript, React, Node.js, Java Spring Boot  
+- **Fun fact:** I’m a coffee-fueled coder & a problem-solving enthusiast  
 
 ---
 
