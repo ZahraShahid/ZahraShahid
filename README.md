@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there, I'm Zahra Shahid</h1>
-<h3 align="center">💻 Full Stack Engineer | Open Source Contributor | Cloud & GenAI Enthusiast</h3>
+<h3 align="center">💻 Lead Software Engineer | Open Source Contributor | AI Native </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Apps;Exploring+GenAI+and+Cloud-Native+Tech;Passionate+about+Open+Source+and+Learning" alt="Typing SVG" />
@@ -9,7 +9,7 @@
 
 ### 🚀 About Me  
 
-I’m a **results-driven Full Stack Engineer** with 4+ years of experience creating **dynamic, scalable web applications** and **API integration solutions**.  
+I’m a **results-driven Senior AI-Native Full-Stack Engineer** with 5+ years of experience creating **dynamic, scalable web applications** and **API integration solutions**.  
 My work blends creativity, logic, and impact — from **frontend finesse** to **cloud-native backend systems**.  
 
 Currently based in **Qatar 🇶🇦**, I collaborate globally to transform ideas into digital realities.  
