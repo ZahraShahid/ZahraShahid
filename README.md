@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Zahra Shahid 👋</h1>
-<h3 align="center">💻 Lead Software Engineer | AI-Native Full-Stack Architect | Global Collaborator</h3>
+<h3 align="center">Lead Software Engineer | AI-Native Full-Stack Architect | Global Collaborator</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Building+Scalable+Cloud+Web+Apps;Orchestrating+AI-Native+Agent+Workflows;Designing+Resilient+Micro+Frontends" alt="Typing SVG" />
