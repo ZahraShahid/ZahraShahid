@@ -53,19 +53,6 @@ I’m a **results-driven Lead AI-Native Full-Stack Engineer** with 5+ years of e
 
 ---
 
-### 📂 Featured Projects  
-
-*Showcasing production-ready architectures and modern developer workflows.*
-
-| Project | Description | Tech Stack | Link |
-| :--- | :--- | :--- | :--- |
-| **AI Agentic Recruiter** | An intelligent multi-agent orchestration pipeline built to automate developer outreach and talent sourcing. | Python, CrewAI, OpenAI | [Code base 🔗](#) |
-| **Micro-Frontend Architecture** | A scalable, decoupled frontend layout designed for high-concurrency enterprise apps. | React, Next.js, Webpack | [Code base 🔗](#) |
-
-*(💡 Tip: Replace the link placeholders above with the actual URLs to your favorite GitHub repositories!)*
-
----
-
 ### 📈 GitHub Highlights  
 
 <p align="center">
